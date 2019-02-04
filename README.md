@@ -1,2 +1,0 @@
-# jsTimer
-Created with CodeSandbox
